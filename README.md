@@ -1,4 +1,4 @@
-# Novo Nordisk Product Supply CBC Collaboration - Fall 2018
+S# Novo Nordisk Product Supply CBS Collaboration - Fall 2018
 Case and content for CBS class - fall 2018
 
 We at Novo Nordisk are very excited to work with you this semester! We are excited to see your results! 
