@@ -1,3 +1,5 @@
+
+
 ![bothlogos](https://user-images.githubusercontent.com/43948265/46852135-3f297600-cdfa-11e8-9133-54dcc384e8cb.PNG)
 
 
@@ -12,4 +14,21 @@ Case 2: Using data, can we confidently conclude that a switch to a cheaper equip
 
 
 Case 3: If it were possible to purchase a IoT device capturing any data imaginable about the shipment at any time, what benefit could be gained in transport control? How could the new data be used to optimize the cold chain in new ways? Where in the supply chain would that information be beneficial?
+
+
+
+
+Please feel free to email us with any questions: 
+
+Carlene – CRLJ@novonordisk.com – Data analyst on the project (On vacation Oct 20-Nov 5)
+Valdemar – VMSH@novonordisk.com – Data analyst on the project who was unable to attend the class today 
+Daniel – DABF@novonordisk.com – Head of Supply Chain Analytics
+Martin – MKPM@novonordisk.com – Advanced Analytics Specialist
+Navid – NVAC@novonordisk.com – Senior Manager – Shipping and Customer Service 
+
+
+For most questions, please email Valdemar and cc the rest.
+
+Best of luck! 
+
 
