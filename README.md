@@ -1,4 +1,6 @@
-# Novo Nordisk Product Supply CBS Collaboration - Fall 2018
+![bothlogos](https://user-images.githubusercontent.com/43948265/46852135-3f297600-cdfa-11e8-9133-54dcc384e8cb.PNG)
+
+
 Case and content for CBS class - fall 2018
 
 We at Novo Nordisk are very excited to work with you this semester! We are excited to see your results! 
