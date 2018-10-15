@@ -21,9 +21,13 @@ Case 3: If it were possible to purchase a IoT device capturing any data imaginab
 Please feel free to email us with any questions: 
 
 Carlene – CRLJ@novonordisk.com – Data analyst on the project (On vacation Oct 20-Nov 5)
+
 Valdemar – VMSH@novonordisk.com – Data analyst on the project who was unable to attend the class today 
+
 Daniel – DABF@novonordisk.com – Head of Supply Chain Analytics
+
 Martin – MKPM@novonordisk.com – Advanced Analytics Specialist
+
 Navid – NVAC@novonordisk.com – Senior Manager – Shipping and Customer Service 
 
 
